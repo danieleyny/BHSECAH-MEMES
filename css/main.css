@@ -3,7 +3,7 @@ html {
   font-family: Georgia, 'Times New Roman', Times, serif;
   display: -ms-grid;
   display: grid;
-  --bg:rgb(160, 78, 1);
+  --bg:rgb(194, 112, 194);
   --bg-panel: #EBEBEB;
   --color-headings: rgb(23, 24, 24);
   --color-text: #2b2828;
